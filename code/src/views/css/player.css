@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.speler-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.speler-card h3 {
+    margin: 0;
+}
+
+.speler-card p {
+    margin: 5px 0;
+}
+
+#knop{
+    margin-bottom: 10px;
+}
